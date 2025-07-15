@@ -5,7 +5,7 @@
     <p>🧠 Люблю сложные задачи и чистую архитектуру</p>
     <p>🎯 Всегда довожу проекты до продакшна</p>
   </div>
-  <img src="https://i.imgur.com/u6ROwvK.gif" alt="Dev GIF" width="180" style="border-radius: 8px;" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2068887196676534572/10BBF4BCB416B153E4EB7EE968EB5B6F6B76BDF2/" alt="Dev GIF" width="180" style="border-radius: 8px;" />
 </div>
 
 # 💻 Тех. стек:
